@@ -19,7 +19,7 @@ Please note: This project must not be used for illegal purposes, or for getting 
 
 # How do I use it?
 
-The jar file in this repository (pix2billions.jar in the root directory) takes the paths of images and outputs the map equivalents in the same directory. Naming convention for the output of image.png is map-image.png
+The jar file in this repository (<a href="https://github.com/GustavHenning/pix2billions/releases/">pix2billions.jar</a> in the root directory) takes the paths of images and outputs the map equivalents in the same directory. Naming convention for the output of image.png is map-image.png
 
 Make sure you dont forget to install java and any other dependencies to run jar files first.
 
