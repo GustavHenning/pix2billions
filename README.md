@@ -20,6 +20,18 @@ Make sure you dont forget to install java and any other dependencies to run jar 
 2) enter "java -jar pix2billions myimage.png" (given that the image is in the same directory)
 3) enjoy your map-myimage.png file
 
+# FAQ
+
+Q: Is there an optimal resolution for input images?
+
+A: Yes, it's 150x200 px
+
+
+
+Q: Why the tilted map? 
+
+A: No idea, see <a href="https://www.reddit.com/r/TheyAreBillions/comments/7mlvfc/modded_custom_spiral_choke_challenge_map_download/druwa1h/">this thread</a>
+
 # What's next?
 
 Feel free to write own distance function to alter what colors correspond to what type of land by forking this project or implementing it in another language! gg!
