@@ -7,6 +7,16 @@ A reddit user named ash47 created a <a href="https://github.com/ash47/TheyAreBil
 
 Please note: This project must not be used for illegal purposes, or for getting a highscore on any leaderboards that are present in the game, it is strictly for educational purposes and for people to experiment with.
 
+![map-gaben](https://github.com/gustavhenning/pix2billions/blob/master/examples-output/map-gaben.png)
+![gaben](https://github.com/gustavhenning/pix2billions/blob/master/examples/gaben.png)
+
+![map-world](https://github.com/gustavhenning/pix2billions/blob/master/examples-output/map-world.png)
+![world](https://github.com/gustavhenning/pix2billions/blob/master/examples/world.png)
+
+![map-world-flipped](https://github.com/gustavhenning/pix2billions/blob/master/examples-output/map-world-flipped.png)
+![world-flipped](https://github.com/gustavhenning/pix2billions/blob/master/examples/world-flipped.png)
+
+
 # How do I use it?
 
 The jar file in this repository (pix2billions.jar in the root directory) takes the paths of images and outputs the map equivalents in the same directory. Naming convention for the output of image.png is map-image.png
