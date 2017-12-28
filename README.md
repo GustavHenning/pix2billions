@@ -19,3 +19,7 @@ Make sure you dont forget to install java and any other dependencies to run jar 
 1) open a terminal and navigate to your folder where the pix2billions.jar is located
 2) enter "java -jar pix2billions myimage.png" (given that the image is in the same directory)
 3) enjoy your map-myimage.png file
+
+# What's next?
+
+Feel free to write own distance function to alter what colors correspond to what type of land by forking this project or implementing it in another language! gg!
