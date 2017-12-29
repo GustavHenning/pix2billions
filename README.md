@@ -27,7 +27,7 @@ Make sure you dont forget to install java and any other dependencies to run jar 
 
 0) make sure you got java installed
 1) open a terminal and navigate to your folder where the pix2billions.jar is located
-2) enter "java -jar pix2billions myimage.png" (given that the image is in the same directory)
+2) enter "java -jar pix2billions.jar myimage.png" (given that the image is in the same directory)
 3) enjoy your map-myimage.png file
 
 # FAQ
